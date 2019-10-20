@@ -17,4 +17,6 @@ effective too. "A $10 solution to save many lives".
 
 NASA Data, EARTHDATA:
 https://sedac.ciesin.columbia.edu/data/collection/ndh/maps/services?fbclid=IwAR0ZSep4xqz87EnnadkKKb_F3Xqu_AqMKpa6uklnR_BOHV8j6GMrGe7w42Y
+https://maps.disasters.nasa.gov/arcgis/apps/sites/#/home/pages/earthquakes
+https://maps.disasters.nasa.gov/arcgis/apps/sites/#/home/pages/volcanoes
 
