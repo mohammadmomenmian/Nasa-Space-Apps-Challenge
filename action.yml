@@ -1,0 +1,12 @@
+name: 'Nasa Space Apps Challenge'
+description: 'Get started with Nasa Space Apps Challenge'
+author: 'GitHub'
+inputs: 
+  myInput:
+    description: 'Input to use'
+    default: 'world'
+runs:
+  using: 'nasa'
+  image: 'Nasafile'
+  args:
+    - ${{ inputs.myInput }}
